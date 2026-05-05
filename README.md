@@ -1,4 +1,4 @@
-# Hadyy
+# Sahand Khodayi
 
 **Machine Learning & Data Science | CS/CE Freshmen**
 
