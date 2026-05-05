@@ -4,7 +4,7 @@
 
 - Documenting and Studying ML/DS full-time
 - Trying to building real projects with end-to-end pipelines, clean code, and full documentation.
-- Sharing my progress and explaining **ML/DS** on my Github or linkeddIn
+- Sharing my progress and explaining **ML/DS** on my Github or linkedIn
 - Studying & Documenting Nuclear Physics hoping to help others
 - Always happy to collab even simple stuff 
 
