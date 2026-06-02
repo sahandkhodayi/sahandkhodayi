@@ -1,6 +1,6 @@
 # Sahand Khodayi
 
-**Machine Learning & Data Science | CS/CE Freshmen**
+**Machine Learning & Data Science | CS Freshmen**
 
 - Documenting and Studying ML/DS full-time
 - Trying to building real projects with end-to-end pipelines, clean code, and full documentation.
