@@ -1,5 +1,22 @@
-# 💫 About Me:
-# Sahand Khodayi<br><br>**Machine Learning & Data Science | CS Freshmen**<br><br>- Documenting and Studying ML/DS full-time<br>- Trying to building real projects with end-to-end pipelines, clean code, and full documentation.<br>- Sharing my progress and explaining **ML/DS** on my Github or linkedIn.<br>- Exploring the intersection of Mathematics, Physics, and Computer Science through Machine Learning and software development.<br>- Always happy to collab even simple stuff.<br><br>## Projects<br><br>- **🤖 ML/AI handmade library and framework**  <br>  All ml/ai related math + algorithms and Trying to make all ml ways to analizition from scratch .  <br>  → [Repository](https://github.com/sahandkhodayi/ml-ai-library-projects)<br><br>## 📫 Contact<br>- **Email**: kingicebear8585@gmail.com  <br>- **Telegram**: [@ShGody]([(https://t.me/@ShGody)])  <br>
+# Sahand Khodayi
+
+**Machine Learning & Data Science | CS Freshmen**
+
+- Documenting and Studying ML/DS full-time
+- Trying to building real projects with end-to-end pipelines, clean code, and full documentation.
+- Sharing my progress and explaining **ML/DS** on my Github or linkedIn.
+- Exploring the intersection of Mathematics, Physics, and Computer Science through Machine Learning and software development.
+- Always happy to collab even simple stuff.
+
+## Projects
+
+- **🤖 ML/AI handmade library and framework**  
+  All ml/ai related math + algorithms and Trying to make all ml ways to analizition from scratch .  
+  → [Repository](https://github.com/sahandkhodayi/ml-ai-library-projects)
+
+## 📫 Contact
+- **Email**: kingicebear8585@gmail.com  
+- **Telegram**: [@ShGody]([(https://t.me/@ShGody)])  
 
 
 ## 🌐 Socials:
