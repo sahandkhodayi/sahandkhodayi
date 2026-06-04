@@ -1,6 +1,5 @@
 
-# Sahand Khodayi
-💫💫💫💫💫💫
+# 💫Sahand Khodayi
 **Machine Learning & Data Science | CE Freshmen**
 
 - Documenting and Studying ML/DS full-time
