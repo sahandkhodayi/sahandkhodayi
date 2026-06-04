@@ -1,3 +1,4 @@
+#💫💫💫💫💫
 # Sahand Khodayi
 
 **Machine Learning & Data Science | CE Freshmen**
@@ -8,7 +9,7 @@
 - Exploring the intersection of Mathematics, Physics, and Computer Science through Machine Learning and software development.
 - Always happy to collab even simple stuff.
 
-## Projects
+## 📚Projects
 
 - **🤖 ML/AI handmade library and framework**  
   All ml/ai related math + algorithms and Trying to make all ml ways to analizition from scratch .  
