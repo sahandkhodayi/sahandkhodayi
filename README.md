@@ -14,6 +14,7 @@
   All ml/ai related math + algorithms and Trying to make all ml ways to analizition from scratch .  
   → [Repository](https://github.com/sahandkhodayi/ml-ai-library-projects)
 - **🔥 New Drop: Classical Machine Learning 🔥**
+  
   From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.           
 → [Read](https://github.com/sahandkhodayi/Machine-learning-Models) the README for the mathematics and implementation details
 
