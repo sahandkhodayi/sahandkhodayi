@@ -21,7 +21,7 @@
 ## 📫 Contact
 - **Email**: kingicebear8585@gmail.com  
 - **Telegram**: [@ShGody]([(https://t.me/@ShGody)])
-- **Linkedin]**:[Sahand Khodayi]([www.linkedin.com/in/sahandkhodayi])
+- **Linkedin**:[Sahand Khodayi]([www.linkedin.com/in/sahandkhodayi])
 
 
 ## 🌐 Socials:
