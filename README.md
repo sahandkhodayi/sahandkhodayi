@@ -19,8 +19,8 @@
 → [Read](https://github.com/sahandkhodayi/Machine-learning-Models) the README for the mathematics and implementation details
   
 - **🚧 Under Construction 🚧**
+- 🚀would be glad if anyone who has exprience with calculus and math or has exprience with gui to help the project!!!!🚀
 - Hand made full workable NN with visuals like nodes and graph + bias or even weight can change dynamicly .
-- would be glad if anyone who has exprience with calculus or basic python to help the project!!!!
 - → [Repository](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
 
 
