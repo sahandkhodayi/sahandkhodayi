@@ -17,6 +17,11 @@
   
   From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.           
 → [Read](https://github.com/sahandkhodayi/Machine-learning-Models) the README for the mathematics and implementation details
+  
+- **🚧 Under Construction 🚧**
+- Hand made full workable NN with visuals like nodes and graph + bias or even weight can change dynamicly
+- [repo](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
+- 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
 ## 📫 Contact
 - **Email**: kingicebear8585@gmail.com  
