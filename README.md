@@ -20,7 +20,8 @@
   
 - **🚧 Under Construction 🚧**
 - Hand made full workable NN with visuals like nodes and graph + bias or even weight can change dynamicly .
-→ [Repository](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
+- → [Repository](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
+
 
 ## 📫 Contact
 - **Email**: kingicebear8585@gmail.com  
