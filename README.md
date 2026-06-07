@@ -20,6 +20,7 @@
   
 - **🚧 Under Construction 🚧**
 - Hand made full workable NN with visuals like nodes and graph + bias or even weight can change dynamicly .
+- would be glad if anyone who has exprience with calculus or basic python to help the project!!!!
 - → [Repository](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
 
 
