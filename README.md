@@ -18,11 +18,31 @@
   From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.           
 → [Read](https://github.com/sahandkhodayi/Machine-learning-Models) the README for the mathematics and implementation details
   
-- **🚧 Under Construction 🚧**
-- **🚀would be glad if anyone who has exprience with calculus and math or has exprience with gui to help the project!!!!🚀**
-- Hand made full workable NN with visuals like nodes and graph + bias or even weight can change dynamicly .
-- → [Repository](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
+🚧 Under Construction 🚧
 
+🧠 Neural Networks From Scratch With Visuals
+
+Building a fully functional neural network framework from scratch with dynamic visualizations of:
+
+• Nodes (Neurons)
+• Connections
+• Weights
+• Biases
+• Training Progress
+
+The goal is to make neural networks understandable both mathematically and visually.
+
+→ [Repository](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals)
+
+🚀 Contributors Welcome 🚀
+
+If you have experience with:
+• Mathematics / Calculus
+• Machine Learning
+• Data Visualization
+• GUI Development
+
+I'd be happy to collaborate and learn together.
 
 ## 📫 Contact
 - **Email**: kingicebear8585@gmail.com  
