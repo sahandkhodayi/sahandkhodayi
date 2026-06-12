@@ -18,9 +18,9 @@
   From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.           
 → [Read](https://github.com/sahandkhodayi/Machine-learning-Models) the README for the mathematics and implementation details
   
-🚧 Under Construction 🚧
+- **🚧 Under Construction 🚧**
 
-🧠 Neural Networks From Scratch With Visuals
+- **🧠 Neural Networks From Scratch With Visuals**
 
 Building a fully functional neural network framework from scratch with dynamic visualizations of:
 
