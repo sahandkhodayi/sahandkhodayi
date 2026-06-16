@@ -12,7 +12,7 @@
 - Always happy to collab even simple stuff.
 </div>
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
 
 | Project | Repository | Description |
 |---|---|---|
