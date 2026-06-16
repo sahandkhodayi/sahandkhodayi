@@ -17,13 +17,6 @@
 | 🤖 ML/AI Handmade Library | [ml-ai-library-projects](https://github.com/sahandkhodayi/ml-ai-library-projects) | All ML/AI related mathematics and algorithms implemented from scratch. The goal is to understand and rebuild ML systems without relying on high-level libraries. |
 | 🔥 Classical Machine Learning | [Machine-learning-Models](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations. |
 | 🧠 Neural Networks From Scratch With Visuals | [NN-s-from-scratch-with-viuals](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals) | A fully functional neural network framework built from scratch with interactive visualization of neurons, connections, weights, biases, and training progress. |
-🚀 Contributors Welcome 🚀
-
-If you have experience with:
-• Mathematics / Calculus
-• Machine Learning
-• Data Visualization
-• GUI Development
 
 I'd be happy to collaborate and learn together.
 
