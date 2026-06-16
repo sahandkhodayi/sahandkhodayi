@@ -1,5 +1,7 @@
 
-# 🔥Sahand Khodayi
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=sahand%20khodayi&fontSize=50&fontColor=fff&animation=twinkling"/>
+</p>
 **Machine Learning & Data Science | CE Freshmen**
 
 - Documenting and Studying ML/DS full-time
@@ -8,7 +10,6 @@
 - Exploring the intersection of Mathematics, Physics, and Computer Science through Machine Learning and software development.
 - Always happy to collab even simple stuff.
 
-## 📚Projects
 
 ## 🚀 Projects
 
