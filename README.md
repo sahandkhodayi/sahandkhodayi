@@ -16,13 +16,11 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| 🤖 ML/AI Handmade Library | [ml-ai-library-projects](https://github.com/sahandkhodayi/ml-ai-library-projects) | All ML/AI related mathematics and algorithms implemented from scratch. The goal is to understand and rebuild ML systems without relying on high-level libraries. |
-| 📈 Classical Machine Learning | [Machine-learning-Models](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations. |
 | 🆕🚧 Neural Networks From Scratch (Active Development)🆕 | [NN-s-from-scratch-with-viuals](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals) | An actively developed framework exploring neural networks, backpropagation, optimization, and visualization from first principles. |
-## 🧠 Neural Network Project Status
+## 🧠 Neural Network Project Status|
+| 📈 Classical Machine Learning | [Machine-learning-Models](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.|
 
-🚧 Main implementation completed  
-📌 Remaining: README documentation and cleanup
+🔥NEW neural project is finished only notes and jupyter notebooks are left 🔥
 
 ## 📫 Contact
 - **Email**: kingicebear8585@gmail.com  
