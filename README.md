@@ -17,9 +17,8 @@
 | Project | Repository | Description |
 |---|---|---|
 | 🆕🚧 Neural Networks From Scratch (Active Development)🆕 | [NN-s-from-scratch-with-viuals](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals) | An actively developed framework exploring neural networks, backpropagation, optimization, and visualization from first principles. |
-## 🧠 Neural Network Project Status
 | 📈 Classical Machine Learning | [Machine-learning-Models](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.|
-
+## 🧠 Neural Network Project Status
 🔥NEW neural project is finished only notes and jupyter notebooks are left 🔥
 
 ## 📫 Contact
