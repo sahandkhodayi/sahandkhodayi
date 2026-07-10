@@ -25,6 +25,7 @@
 - **Email**: kingicebear8585@gmail.com  
 - **Telegram**: [@ShGody](https://t.me/@ShGody)
 - **Linkedin**: [Sahand Khodayi](https://www.linkedin.com/in/sahandkhodayi)
+- **X**:[Fire0ntop](https://x.com/fire0ntop)
 
 
 
