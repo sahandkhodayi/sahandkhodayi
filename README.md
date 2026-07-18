@@ -19,6 +19,7 @@
 | 🆕 Neural Networks From Scratch (Active Development)🆕 | [NN-s-from-scratch-with-viuals](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals) |  A from-scratch neural network framework built with NumPy, featuring custom neurons, layers, backpropagation, gradient descent, and interactive visualization of training.|
 | 📈 Classical Machine Learning | [Machine-learning-Models](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.|
 ## 🧠 Neural Network Project Status
++ looking for someone who can work with CV and YOLO + engineering 
 🔥NEW neural network project is finished only notes and jupyter notebooks are left 🔥
 
 ## 📫 Contact
