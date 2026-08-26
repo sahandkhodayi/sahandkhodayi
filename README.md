@@ -10,9 +10,9 @@
 
 | Project | Repository | Description |
 |---|---|---|
-|  Neural Networks From Scratch (Active Development) | [NN-s-from-scratch-with-viuals](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals) |  A from-scratch neural network framework built with NumPy, featuring custom neurons, layers, backpropagation, gradient descent, and interactive visualization of training.|
-| 📈 Classical Machine Learning | [Machine-learning-Models](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.|
-|🆕Math Network🆕 | [ Function Guess NN](https://github.com/sahandkhodayi/Math-function-approximation-with-NN) | guessing your math functions graph using A MLP NN|
+|  Neural Networks From Scratch (Active Development) | [REPO](https://github.com/sahandkhodayi/NN-s-from-scratch-with-viuals) |  A from-scratch neural network framework built with NumPy, featuring custom neurons, layers, backpropagation, gradient descent, and interactive visualization of training.|
+| 📈 Classical Machine Learning | [REPO](https://github.com/sahandkhodayi/Machine-learning-Models) | From-scratch implementations of Linear Regression and Logistic Regression, including gradient descent, feature normalization, evaluation metrics, and mathematical derivations.|
+|🆕Math Network🆕 | [REPO](https://github.com/sahandkhodayi/Math-function-approximation-with-NN) | guessing your math functions graph using A MLP NN|
 
 ## 📫 Contact
 - **Email**: kingicebear8585@gmail.com  
