@@ -1,5 +1,5 @@
 
-  **👾  AI engineer  👾**
+  **👾  AI engineer 👾**
 - Documenting and Studying ML/AI full-time
 - Trying to building real projects with end-to-end pipelines, clean code, and full documentation.
 - Sharing my progress and explaining **ML/AI** on my Github or linkedIn.
