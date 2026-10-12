@@ -1,11 +1,17 @@
+```text
+    ░█████                          ░██       ░██                                           
+      ░██                           ░██       ░██                                           
+      ░██  ░██    ░██  ░███████  ░████████    ░██          ░██████   ░██░████ ░████████     
+      ░██  ░██    ░██ ░██           ░██       ░██               ░██  ░███     ░██    ░██    
+░██   ░██  ░██    ░██  ░███████     ░██       ░██          ░███████  ░██      ░██    ░██    
+░██   ░██  ░██   ░███        ░██    ░██       ░██         ░██   ░██  ░██      ░███   ░██    
+ ░██████    ░█████░██  ░███████      ░████    ░██████████  ░█████░██ ░██      ░██░█████     
+                                                                              ░██           
+                                                                              ░██
+```
+                                                                                            
 
-  **👾  AI engineer 👾**
-- Documenting and Studying ML/AI full-time
-- Trying to building real projects with end-to-end pipelines, clean code, and full documentation.
-- Sharing my progress and explaining **ML/AI** on my Github or linkedIn.
-- Exploring the intersection of Mathematics, Physics, and Computer Science through Machine Learning and software development.
-- Always happy to collab even simple stuff.
-
+                                                                                            
 <h2 align="center">🚀 Projects</h2>
 
 | Project | Repository | Description |
