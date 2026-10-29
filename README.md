@@ -26,8 +26,6 @@
 </table>
 </div>
 
----
-
 ## 🧪 Projects
 
 <table>
