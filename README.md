@@ -3,13 +3,17 @@
 <tr>
 <td>
 <pre>
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
+    /\___/\
+   /       \
+  l  u   u  l
+--l----*----l--
+   \   w   /     - Meow!
+     ======
+   /       \ __
+   l        l\ \
+   l        l/ /   -Love cats
+   l  l l   l /
+   \ ml lm /_/
 </pre>
 </td>
 <td valign="middle" width="440">
