@@ -1,13 +1,12 @@
 ```text
-    ░█████                          ░██       ░██                                           
-      ░██                           ░██       ░██                                           
-      ░██  ░██    ░██  ░███████  ░████████    ░██          ░██████   ░██░████ ░████████     
-      ░██  ░██    ░██ ░██           ░██       ░██               ░██  ░███     ░██    ░██    
-░██   ░██  ░██    ░██  ░███████     ░██       ░██          ░███████  ░██      ░██    ░██    
-░██   ░██  ░██   ░███        ░██    ░██       ░██         ░██   ░██  ░██      ░███   ░██    
- ░██████    ░█████░██  ░███████      ░████    ░██████████  ░█████░██ ░██      ░██░█████     
-                                                                              ░██           
-                                                                              ░██
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (                                    
+  (           )                            
+ ( (  )   (  ) )
+(__(__)___(__)__)
+
 ```
                                                                                             
 
@@ -24,7 +23,7 @@
 working on a black hole simulator using DL / AI 
 happy for collab
 ## 📫 Contact
-- **Email**: kingicebear8585@gmail.com  
+- **Email**: sahandkhodaie85@gmail.com  
 - **Telegram**: [@ShGody](https://t.me/@ShGody)
 - **Linkedin**: [Sahand Khodayi](https://www.linkedin.com/in/sahandkhodayi)
 
