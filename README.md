@@ -17,12 +17,10 @@
 </pre>
 </td>
 <td valign="middle" width="440">
-<h2>Hey, I'm Sahand 👋</h2>
-<p>🎓 Computer Science student</p>
-<p>🧠 Learning Machine Learning and AI by building projects</p>
-<p>🐍 Python · C · NumPy · PyTorch</p>
-<p>📐 Interested in the math behind intelligent systems</p>
-<p><code>learn(); build(); experiment();</code></p>
+<p>🎓 Computer Engineer student</p>
+<p>⚙️low level and Ai enjoyer</p>
+<p>✨massage me on telegram for collabs</p>
+<p>୨୧ btw, i use lazy vim </p>
 </td>
 </tr>
 </table>
@@ -30,7 +28,7 @@
 
 ---
 
-## 🧪 Featured Projects
+## 🧪 Projects
 
 <table>
 <tr>
@@ -88,13 +86,3 @@ A growing collection of notes and hands-on implementations covering the math, al
 </td>
 </tr>
 </table>
-
-## 🛠️ Other Projects
-
-- [**TodoList (C)**](https://github.com/sahandkhodayi/TodoList) — A command-line task manager with editing, completion archives, and backup/restore.
-- [**Student Data System (C)**](https://github.com/sahandkhodayi/Student-data) — A terminal-based student record system for grades, averages, search, and backups.
-- [**ML / AI Library Projects**](https://github.com/sahandkhodayi/ml-ai-library-projects) — Notes and implementations from my ongoing learning journey.
-
----
-
-<p align="center"><i>Curious about how things work under the hood — and always building the next thing.</i></p>
